@@ -1,0 +1,5 @@
+2
+Salat
+20.0
+Soft drink
+15.0
